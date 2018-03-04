@@ -19,9 +19,9 @@ Simple countdown timer for events.
 			config: {
                 date: "2018-03-04",                   // (YYYY-MM-DD)  Date timer will end
                 time: "17:47:00",                     // (HH:MM:SS)    Exact time you want timer to end
-				text1: "Describe event here",         // 2 lines of text during timer
+		text1: "Describe event here",         // 2 lines of text during timer
                 text2: "And here too!",               // 2 lines of text during timer
                 endText1: "When timer ends",          // 2 lines of text when timer ends
                 endText2: "Say something here",       // 2 lines of text when timer ends
-			}
-        },
+	}
+    },
