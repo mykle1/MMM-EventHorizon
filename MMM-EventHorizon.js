@@ -23,7 +23,7 @@ Module.register("MMM-EventHorizon",{
 		
 		var iframe = document.createElement("IFRAME");
 		iframe.classList.add("iframe");
-	//	iframe.style = "border:none";
+		iframe.style = "border:none";
 		iframe.width = this.config.width;
 		iframe.height = this.config.height;
 		type="text/javascript";
