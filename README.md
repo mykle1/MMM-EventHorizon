@@ -2,6 +2,10 @@
 
 Simple countdown timer for events.
 
+## Usage
+
+Birthdays, Anniversaries, Graduations, Vacations, Parties, Weddings, Deadlines, etc..
+
 ## Examples
 
 ![](images/1.png) ![](images/2.png)
