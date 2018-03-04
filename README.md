@@ -15,5 +15,5 @@ Simple countdown timer for events.
     {
             disabled: f,
             module: 'MMM-EventHorizon',
-            position: 'top_left',
+            position: 'top_center',
         },
