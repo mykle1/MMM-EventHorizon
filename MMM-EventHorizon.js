@@ -35,6 +35,17 @@ Module.register("MMM-EventHorizon",{
 		type="text/javascript";
 		iframe.src = "http://free.timeanddate.com/countdown/i64zeztz/n179/cf100/cm0/cu4/ct5/cs0/ca0/cr0/ss0/cac33d9ff/cpc000/pct/tcfff/fs100/szw192/szh81/tat" + this.config.text1 + "/tac33d9ff/tpt" + this.config.endText1 + "/tpc33d9ff/mat" + this.config.text2 + "/mac33d9ff/mpt" + this.config.endText2 + "/mpc33d9ff/iso" + this.config.date + "T" + this.config.time + "/bo2/pd2";
 		return iframe;
-	}
+	},
+	
+	/////  Add this function to the modules you want to control with voice //////
+
+    notificationReceived: function(notification, payload) {
+        if (notification === 'HIDE_TIMER') {
+            this.hide(1000);
+        }  else if (notification === 'SHOW_TIMER') {
+            this.show(1000);
+        }
+            
+    },
 
 });
