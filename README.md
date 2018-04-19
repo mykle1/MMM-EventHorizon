@@ -1,6 +1,6 @@
 ## MMM-EventHorizon
 
-Simple countdown timer for events.
+Simple countdown timer for events. Birthdays, weddings, anniversaries, vacations, etc.
 
 ## Examples
 
