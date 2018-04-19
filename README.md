@@ -20,7 +20,7 @@ Simple countdown timer for events.
         disabled: false,
         module: 'MMM-EventHorizon',
         position: 'bottom_center',
-		config: {
+	config: {
             size: "large",                       // small, medium or large
             date: "2018-07-04",                  // (YYYY-MM-DD)  Date timer will end
             time: "00:00:01",                    // (HH:MM:SS)    Exact time you want timer to end
