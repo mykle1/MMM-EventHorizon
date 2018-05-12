@@ -16,6 +16,7 @@ Simple countdown timer for events. Birthdays, weddings, anniversaries, vacations
 
 ## Config.js entry and options
 
+```
     {
         disabled: false,
         module: 'MMM-EventHorizon',
@@ -30,5 +31,6 @@ Simple countdown timer for events. Birthdays, weddings, anniversaries, vacations
             endText2: "Where's my bikini",          // 2nd line of text when timer ends. About 18 characters total.
     }
 },
+```
 
 ## Comments welcome
