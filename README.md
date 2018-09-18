@@ -23,9 +23,10 @@ Simple countdown timer for events. Birthdays, weddings, anniversaries, vacations
         position: 'bottom_center',
 	    config: {
             size: "large",                       // small, medium or large
+	    countUp: "yes",                      // Yes or no (when timer ends)
             date: "2018-07-04",                  // (YYYY-MM-DD)  Date timer will end
             time: "00:00:01",                    // (HH:MM:SS)    Exact time you want timer to end
-	        text1: "Open the damn pool",         // 1st line of text during timer. About 18 characters total.
+	    text1: "Open the damn pool",         // 1st line of text during timer. About 18 characters total.
             text2: "Winter sucked ass",          // 2nd line of text during timer. About 18 characters total.
             endText1: "It's gonna be fun",          // 1st line of text when timer ends. About 18 characters total.
             endText2: "Where's my bikini",          // 2nd line of text when timer ends. About 18 characters total.
