@@ -10,6 +10,13 @@
 }
 
 .MMM-EventHorizon {
-padding-top: 20px;
+padding-top: 0px;
 }
 
+.MMM-EventHorizon .module-content {
+	margin-right: -120px;        /* Precisely align module with these */
+  margin-left: 0px;         /* Precisely align module with these */
+  margin-top: 0px;          /* Precisely align module image these */
+  margin-bottom: 0px;       /* Precisely align module image these */
+  padding-top: 0px;
+}
