@@ -47,11 +47,11 @@ Module.register("MMM-EventHorizon",{
 
 
         if (this.config.countUp != "yes" && this.config.size == "small"){
-            iframe.src = "http://free.timeanddate.com/countdown/i64zeztz/n179/cf100/cm0/cu4/ct5/cs0/ca0/cr0/ss0/cac33d9ff/cpc000/pct/tcfff/fs100/szw192/szh81/tat" + this.config.text1 + "/tac33d9ff/tpt" + this.config.endText1 + "/tpc33d9ff/mat" + this.config.text2 + "/mac33d9ff/mpt" + this.config.endText2 + "/mpc33d9ff/iso" + this.config.date + "T" + this.config.time + "/bo2/pd2";
+            iframe.src = "http://free.timeanddate.com/countdown/i64zeztz/n179/cf100/cm0/cu4/ct5/cs0/ca0/cr0/ss0/cac33d9ff/cpc000/pct/tcfff/fs100/szw192/szh81/tat" + this.config.text1 + "/tac33d9ff/tpt" + this.config.endText1 + "/tpc33d9ff/mat" + this.config.text2 + "/mac33d9ff/mpt" + this.config.endText2 + "/mpc33d9ff/iso" + this.config.date + "T" + this.config.time; // + "/bo2/pd2";
         } else if (this.config.countUp != "yes" && this.config.size == "medium") {
-            iframe.src = "http://free.timeanddate.com/countdown/i67bgd3d/n179/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cac0ff/cpc0ff/pct/tcfff/fs100/szw448/szh189/tat" + this.config.text1 + "/tac0ff/tpt" + this.config.endText1 + "/tpc0ff/mat" + this.config.text2 + "/mac0ff/mpt" + this.config.endText2 + "/mpc0ff/iso" + this.config.date + "T" + this.config.time + "/bo2/pd2";
+            iframe.src = "http://free.timeanddate.com/countdown/i67bgd3d/n179/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cac0ff/cpc0ff/pct/tcfff/fs100/szw448/szh189/tat" + this.config.text1 + "/tac0ff/tpt" + this.config.endText1 + "/tpc0ff/mat" + this.config.text2 + "/mac0ff/mpt" + this.config.endText2 + "/mpc0ff/iso" + this.config.date + "T" + this.config.time; // + "/bo2/pd2";
         } else if (this.config.countUp != "yes" && this.config.size == "large") {
-            iframe.src = "http://free.timeanddate.com/countdown/i67bgd3d/n179/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cac0ff/cpc0ff/pct/tcfff/fs100/szw576/szh243/tat" + this.config.text1 + "/tac0ff/tpt" + this.config.endText1 + "/tpc0ff/mat" + this.config.text2 + "/mac0ff/mpt" + this.config.endText2 + "/mpc0ff/iso" + this.config.date + "T" + this.config.time + "/bo2/pd2";
+            iframe.src = "http://free.timeanddate.com/countdown/i67bgd3d/n179/cf12/cm0/cu4/ct0/cs1/ca0/cr0/ss0/cac0ff/cpc0ff/pct/tcfff/fs100/szw576/szh243/tat" + this.config.text1 + "/tac0ff/tpt" + this.config.endText1 + "/tpc0ff/mat" + this.config.text2 + "/mac0ff/mpt" + this.config.endText2 + "/mpc0ff/iso" + this.config.date + "T" + this.config.time; // + "/bo2/pd2";
         }
 
 
