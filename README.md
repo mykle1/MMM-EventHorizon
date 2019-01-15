@@ -25,7 +25,7 @@ config: {
     timezone: "n179",                     // See Timezone chart at bottom
     size: "large",                        // small, medium or large
     countUp: "yes",                       // Count up after timer ends
-    date: "2019-01-15",                   // YYYY-MM-DD format ONLY
+    date: "2019-07-04",                   // YYYY-MM-DD format ONLY
     time: "00:00:01",                     // (HH:MM:SS)    Exact time you want timer to end
     text1: "Describe event",         // 2 lines of text during timer
     text2: "And here too!",               // 2 lines of text during timer
