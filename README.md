@@ -40,7 +40,7 @@ Simple countdown timer for events.
     }
 },
 
-# Timezone codes - Added as needed. Please ask at the MagicMirror forum
+## Timezone codes - Added as needed. Please ask at the MagicMirror forum
 
 * France, Paris = n195
 
