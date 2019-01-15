@@ -27,7 +27,7 @@ config: {
     countUp: "yes",                       // Count up after timer ends
     date: "2019-01-15",                   // YYYY-MM-DD format ONLY
     time: "00:00:01",                     // (HH:MM:SS)    Exact time you want timer to end
-    text1: "Describe event here",         // 2 lines of text during timer
+    text1: "Describe event",         // 2 lines of text during timer
     text2: "And here too!",               // 2 lines of text during timer
     text1Color: "FFFFFF",                 // Hex color codes
     text2Color: "62FF00",                 // Hex color codes
