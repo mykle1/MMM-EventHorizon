@@ -56,12 +56,13 @@ config: {
 
 * UK, London = n136
 
-* Central Time zone USA (Chicago) = n64
-
 * USA, CA = n137
 * USA, NY = n179
 * USA, IL = n64
 * USA TX = n70
+
+@vinp - Contributor
+Central Time zone USA (Chicago) = n64
 
 @sdetweil - Contributor
 n64 - Austin, Texas
