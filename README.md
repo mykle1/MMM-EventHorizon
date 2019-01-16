@@ -128,6 +128,9 @@ n325 - Valencia - Spain
 n683 - Santa Cruz de Tenerife - Spain
 n3751 - Valladolid - Spain
 
+@yawns = Contributor
+n987 Solingen - Germany - CET - Central European Time
+
 ## Special thanks to @spitzlbergerj
 
 For going out of his way and making some nice additions to the module,
