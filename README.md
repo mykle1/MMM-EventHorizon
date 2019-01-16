@@ -63,6 +63,70 @@ config: {
 * USA, IL = n64
 * USA TX = n70
 
+@sdetweil - Contributor
+n64 - Austin, Texas
+n70 - Dallas, Texas
+n104 - Houston, Texas
+n394 - Albuquerque, Nm
+N197 - Phoenix, Az
+
+@rts58 - Contributor
+n43 Boston, MA
+
+@dazza120 - Contributor
+n2483 UK 🇬🇧 England
+
+@CyruS1337 - Contributor
+n268 Zuerich, Switzerland
+
+@Sandy2503 - Contributor
+n959 Wuppertal - Germany - CET - Central European Time
+
+@Sean - Contributor
+n83 - Frankfurt A.M, Germany
+
+@Nilnik - Contributor
+n291, Gothenburg, Sweden
+
+@THeStigh - Contributor
+n290 Tromso - Norway
+n187 Oslo - Norway
+n5267 Finnsnes - Norway
+n287 Bergen - Norway
+n288 Trondheim - Norway
+n289 Stavanger - Norway
+n2513 Alta - Norway
+
+@zdenek - Contributor
+Czech Republic - Liberec - n3673
+Czech Republic - Brno - n1960
+Czech Republic - Praha - n204
+Czech Republic - Plzeň - n2172
+Czech Republic - Hradec Králové - n4344
+Czech Republic - Teplice - n5513
+Czech Republic - Karlovy Vary- n4726
+Czech Republic - Ostrava - n2202
+Czech Republic - Olomouc - n4343
+Czech Republic - Tábor - n2201
+Czech Republic - Ústí nad Labem - n4345
+
+@MWel197 - Contributor
+Netherlands - Arnhem - n1296
+Netherlands - Amsterdam - n16
+
+@qu1que - Contributor
+n681 - A Coruña - Spain
+n3334 - Lugo - Spain
+n4529 - Vigo - Spain
+n141- Madrid - Spain
+n327 - Bilbao - Spain
+n31 - Barcelona - Spain
+n326 - Zaragoza - Spain
+n321- Sevilla - Spain
+n325 - Valencia - Spain
+n683 - Santa Cruz de Tenerife - Spain
+n3751 - Valladolid - Spain
+
 ## Special thanks to @spitzlbergerj
 
 For going out of his way and making some nice additions to the module,
