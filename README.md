@@ -56,6 +56,8 @@ config: {
 
 * UK, London = n136
 
+* Central Time zone USA (Chicago) = n64
+
 * USA, CA = n137
 * USA, NY = n179
 * USA, IL = n64
