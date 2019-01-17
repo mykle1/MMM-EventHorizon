@@ -136,6 +136,21 @@ config: {
 * n2390 Split HR Croatia CET
 * n281 Zagreb HR Croatia CET
 
+@MyMirror = Contributor
+* n307 Hamburg DE Germany
+
+@justjim = Contributor
+* Maryville, Missouri – n5345
+* Kansas City, Missouri – n405
+* Saint Joseph, Missouri – n5688
+* Independence, Missouri – n838
+* Des Moines, Iowa – n76
+* Kansas City, Kansas – n5080
+* Overland Park, Kansas – n868
+
+@swvalenti = Contributor
+* n2268 Freehold, NJ, USA
+
 ## Special thanks to @spitzlbergerj
 
 For going out of his way and making some nice additions to the module,
