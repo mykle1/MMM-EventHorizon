@@ -42,6 +42,11 @@ config: {
 },
 ```
 
+Go to this page and obtain your timezone code 
+https://forum.magicmirror.builders/topic/9514/contribute-to-a-module-volunteers-wanted-easy
+
+Or choose from the list below!
+
 ## Timezone codes - Added as needed. Please ask at the MagicMirror forum
 
 * France, Paris = n195
