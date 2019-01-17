@@ -131,6 +131,11 @@ config: {
 @yawns = Contributor
 * n987 Solingen - Germany - CET - Central European Time
 
+@robiv8 = Contributor
+* n317 Stuttgart DE Germany CET
+* n2390 Split HR Croatia CET
+* n281 Zagreb HR Croatia CET
+
 ## Special thanks to @spitzlbergerj
 
 For going out of his way and making some nice additions to the module,
