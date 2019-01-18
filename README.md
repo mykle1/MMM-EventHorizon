@@ -156,6 +156,14 @@ Or choose from the list below!
 @swvalenti = Contributor
 * n2268 Freehold, NJ, USA
 
+@aidandon = Contributor
+Code: n4391
+Location: Northern Ireland
+
+@MoreLinux = Contributor
+Code: n48
+Location: Walldorf (Baden-Württemberg)
+
 ## Special thanks to @spitzlbergerj
 
 For going out of his way and making some nice additions to the module,
