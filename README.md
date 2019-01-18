@@ -157,12 +157,10 @@ Or choose from the list below!
 * n2268 Freehold, NJ, USA
 
 @aidandon = Contributor
-Code: n4391
-Location: Northern Ireland
+* n4391 - Northern Ireland
 
 @MoreLinux = Contributor
-Code: n48
-Location: Walldorf (Baden-Württemberg)
+* n48 - Walldorf (Baden-Württemberg)
 
 ## Special thanks to @spitzlbergerj
 
