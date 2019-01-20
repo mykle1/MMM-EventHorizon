@@ -47,6 +47,8 @@ https://forum.magicmirror.builders/topic/9514/contribute-to-a-module-volunteers-
 
 Or choose from the list below!
 
+Or choose from the text file "Timezone codes" included with this module.
+
 ## Timezone codes - Added as needed. Please ask at the MagicMirror forum
 
 * France, Paris = n195
