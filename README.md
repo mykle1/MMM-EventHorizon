@@ -164,6 +164,12 @@ Or choose from the text file "Timezone codes" included with this module.
 @MoreLinux = Contributor
 * n48 - Walldorf (Baden-Württemberg)
 
+@lavolp3 = Contributor
+* n1016 - Moers, Germany
+* n957 - Duisburg, Germany
+* n973 - Krefeld, Germany
+* n2011 - Mülheim/Ruhr, Germany
+
 ## Special thanks to @spitzlbergerj
 
 For going out of his way and making some nice additions to the module,
