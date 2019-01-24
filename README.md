@@ -170,6 +170,9 @@ Or choose from the text file "Timezone codes" included with this module.
 * n973 - Krefeld, Germany
 * n2011 - Mülheim/Ruhr, Germany
 
+@Anthony = Contributor
+* n26 - Greece - Athens
+
 ## Special thanks to @spitzlbergerj
 
 For going out of his way and making some nice additions to the module,
