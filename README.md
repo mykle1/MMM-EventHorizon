@@ -23,6 +23,7 @@ module: 'MMM-EventHorizon',
 position: 'bottom_center',
 config: {
     timezone: "n179",                     // See Timezone chart at bottom
+    units: "1",          // 1=no units, 2=units initial only, 3=units abbr singular, 4= units abbr plural, 5= units full name
     size: "large",                        // small, medium or large
     countUp: "yes",                       // Count up after timer ends
     date: "2019-07-04",                   // YYYY-MM-DD format ONLY
