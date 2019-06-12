@@ -174,6 +174,9 @@ Or choose from the text file "Timezone codes" included with this module.
 @Anthony = Contributor
 * n26 - Greece - Athens
 
+@rmonteroc = Contributor
+* n94 - Central America
+
 ## Special thanks to @spitzlbergerj
 
 For going out of his way and making some nice additions to the module,
