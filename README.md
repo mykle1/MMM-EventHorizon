@@ -182,3 +182,10 @@ Or choose from the text file "Timezone codes" included with this module.
 For going out of his way and making some nice additions to the module,
 
 Even if he made it work ONLY for Berlin Germany! I kid you not! :-)
+
+## Comment by @spitzlberger on this "special thanks"
+That's not correct. I inserted a parameter for the time zone that did not exist before. This allowed the users of the module to set the time zones (and much more about other parameters) without adjusting the code.
+
+However it is correct, that I then set the time zone parameter to Berlin by default. 
+
+But the "inventor of the time zone parameter" is also entitled to that, right? :-)
