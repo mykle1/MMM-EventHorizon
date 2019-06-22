@@ -177,6 +177,9 @@ Or choose from the text file "Timezone codes" included with this module.
 @rmonteroc = Contributor
 * n94 - Central America
 
+@mumblebaj = Contributor
+* n111 - South Africa/Johannesburg
+
 ## Special thanks to @spitzlbergerj
 
 For going out of his way and making some nice additions to the module,
