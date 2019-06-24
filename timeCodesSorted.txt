@@ -1,0 +1,557 @@
+Afghanistan, Kabul, n113
+Albania, Tirana, n284
+Algeria, Algiers, n14
+Andorra, Andorra La Vella, n686
+Angola, Luanda, n138
+Antigua and Barbuda, Saint John's, n688
+Argentina, Buenos Aires, n51
+Argentina, Córdoba, n485
+Armenia, Yerevan, n370
+Australia, Adelaide, n5
+Australia, Alice Springs, n929
+Australia, Brisbane, n47
+Australia, Cairns, n927
+Australia, Canberra, n57
+Australia, Darwin, n72
+Australia, Eucla, n1980
+Australia, Habart, n396
+Australia, Melbourne, n152
+Australia, Perth, n196
+Australia, Sydney, n240
+Austria, Vienna, n259
+Azerbaijan, Baku, n369
+Bahamas, Nassau, n173
+Bahrain, Manama, n15
+Bangladesh, Dhaka, n73
+Barbados, Bridgetown, n46
+Belarus, Minsk, n285
+Belgium, Brussels, n48
+Belize, Belmopan, n36
+Benin, Porto Novo, n203
+Bermuda, Hamilton, n38
+Bhutan, Thimphu, n690
+Bolivia, La Paz, n124
+Bolivia, Sucre, n1888
+Bosnia-Herzegovina, Sarajevo, n691
+Botswana, Gaborone, n86
+Brazil, Acre Rio Branco, n752
+Brazil, Amazonas Manaus, n144
+Brazil, Bahia Salvador, n222
+Brazil, Ceará Fortaleza, n491
+Brazil, Distrito Federal Brasilia, n45
+Brazil, Pará Belém, n446
+Brazil, Pernambuco Recife, n209
+Brazil, Rio de Janeiro, n213
+Brazil, São Paulo, n233
+British, Indian Ocean Terriotry Diego Garcia, n932
+Brunei, Bandar Seri Begawan, n693
+Bulgaria, Sofia, n238
+Burkina, Faso Ouagadougou, n186
+Burundi, Bujumbura, n52
+Burundi, Gitega, n3446
+Cabo, Verde Praia, n685
+Cambodia, Phnom Penh, n199
+Cameroon, Yaoundé, n267
+Canada, Alberta Calgary, n55
+Canada, Alberta Edmonton, n80
+Canada, British Columbia Vancouver, n256
+Canada, Manitoba Winnipeg, n265
+Canada, New Brunswick Saint John, n749
+Canada, Newfoundland and Labrador Happy Valley-Goose Bay, n1137
+Canada, Newfoundland and Labrador Mary's Harbour, n4880
+Canada, Newfoundland and Labrador St. John's, n175
+Canada, Northwest Territories Inuvik, n1145
+Canada, Northwest Territories Yellowknife, n678
+Canada, Nova Scotia Halifax, n286
+Canada, Nunavut Alert, n3368
+Canada, Nunavut Baker Lake, n1157
+Canada, Nunavut Coral Harbour, n1160
+Canada, Nunavut Eureka, n3764
+Canada, Nunavut Grise Fiord, n3801
+Canada, Nunavut Pond Inlet, n1164
+Canada, Nunavut Resolute Bay, n2380
+Canada, Ontario Ottawa, n188
+Canada, Ontario Toronto, n250
+Canada, Quebec Blanc-Sablon, n1922
+Canada, Quebec Chibougamau, n2438
+Canada, Quebec Kuujjuaq, n3768
+Canada, Quebec Montréal, n165
+Canada, Quebec Québec, n189
+Canada, Saskatchewan Regina, n210
+Canada, Yukon Whitehorse, n679
+Cayman, Islands George Town, n377
+Central, African Republic Bangui, n694
+Chad, N'Djamena, n174
+Chile, Easter Island, n914
+Chile, Punta Arenas, n574
+Chile, Santiago, n232
+China, Beijing Municipality Beijing, n33
+China, Chongqing Municipality Chongqing, n470
+China, Guangdong Shenzhen, n1232
+China, Jiangsu Suzhou, n2148
+China, Shanghai Municipality Shanghai, n237
+China, Tibet Lhasa, n918
+China, Xinjiang Ürümqi, n655
+Colombia, Bogota, n41
+Comoros, Moroni, n696
+Congo, Brazzaville, n926
+Congo, Dem. Rep. Kinshasa, n121
+Congo, Dem. Rep. Lubumbashi, n139
+Cook, Islands Rarotonga, n279
+Costa, Rica San Jose, n225
+Cote, d'Ivoire (Ivory Coast) Abidjan, n1
+Cote, d'Ivoire (Ivory Coast) Yamoussoukro, n935
+Croatia, Split, n2390
+Croatia, Zagreb, n281
+Croatia, Zagreb, n281
+Cuba, Havana, n99
+Cyprus, Nicosia, n680
+Czech, Republic Prague, n204
+Czech Republic, Brno, n1960
+Czech Republic, Hradec Králové, n4344
+Czech Republic, Karlovy Varyn, n4726
+Czech Republic, Liberec, n3673
+Czech Republic, Olomouc, n4343
+Czech Republic, Ostrava, n2202
+Czech Republic, Plzeň, n2172
+Czech Republic, Praha, n204
+Czech Republic, Tábor, n2201
+Czech Republic, Teplice, n5513
+Czech Republic, Ústí nad Labem, n4345
+Denmark, Copenhagen, n69
+Djibouti, Djibouti, n697
+Dominica, Roseau, n698
+Dominican, Republic Santo Domingo, n230
+Ecuador, Galapagos Islands, n915
+Ecuador, Guayaquil, n93
+Ecuador, Quito, n190
+Egypt, Cairo, n53
+El, Salvador San Salvador, n228
+Equatorial, Guinea Malabo, n699
+Eritrea, Asmara, n700
+Estonia, Tallinn, n242
+eSwatini, Mbabane, n149
+Ethiopia, Addis Ababa, n7
+Falkland, Islands Stanley, n630
+Faroe, Islands Tórshavn, n701
+Fiji, Suva, n82
+Finland, Helsinki, n101
+Finland, Kemi, n3718
+Finland, Rovaniemi, n1401
+France, Île-de-France Paris, n195
+France, Paris, n195
+French, Guiana Cayenne, n61
+French, Polynesia Tahiti Papeete, n278
+French, Southern Territories Amsterdam Island, n3658
+French, Southern Territories Port-aux-Francais, n397
+Gabon, Libreville, n129
+Gambia, Banjul, n30
+Georgia, Tbilisi, n371
+Germany, Berlin, n37
+Germany, Berlin Berlin, n37
+Germany, Dachau, n2796 
+Germany, Duisburg, n957
+Germany, Frankfurt, n83
+Germany, Frankfurt, n83
+Germany, Freising, n2766 
+Germany, Fürstenfeldbruck, n2889 
+Germany, Germering, n2845
+Germany, Gräfelfing, n5376 
+Germany, Hamburg, n307
+Germany, Krefeld, n973
+Germany, Moers, n1016
+Germany, Mülheim/Ruhr, n2011
+Germany, Munich, n168 
+Germany, Solingen, n987
+Germany, Starnberg, n3045 
+Germany, Stuttgart, n317
+Germany, Walldorf, n48
+Germany, Wuppertal, n959
+Ghana, Accra, n4
+Gibraltar, Gibraltar, n89
+Greece, Athens, n26
+Greece, Athens, n26
+Greenland, Danmarkshavn, n2114
+Greenland, Ittoqqortoormiit, n705
+Greenland, Kangerlussuaq, n4217
+Greenland, Nuuk, n703
+Greenland, Qaanaaq, n3724
+Greenland, Thule Air Base, n704
+Grenada, Saint George's, n706
+Guadeloupe, Basse-Terre, n707
+Guam, Hagåtña, n91
+Guatemala, Guatemala City, n94
+Guinea, Conakry, n67
+Guinea-Bissau, Bissau, n40
+Guyana, Georgetown, n88
+Haiti, Port-au-Prince, n709
+Honduras, Tegucigalpa, n245
+Hong, Kong Hong Kong, n102
+Hungary, Budapest, n50
+Iceland, Reykjavik, n211
+India, Bihar Patna, n1040
+India, Delhi Delhi, n771
+India, Delhi New Delhi, n176
+India, Gujarat Surat, n1039
+India, Karnataka Bangalore, n438
+India, Kerala Thiruvananthapuram, n1892
+India, Madhya Pradesh Indore, n1041
+India, Maharashtra Mumbai, n44
+India, Maharashtra Pune, n1038
+India, Odisha Bhubaneshwar, n1042
+India, Punjab Ahmedgarh, n4498
+India, Punjab Ludhiana, n1043
+India, Tamil Nadu Chennai, n553
+India, Tamil Nadu Madurai, n1047
+India, Uttar Pradesh Agra, n1046
+India, Uttar Pradesh Varanasi, n1045
+India, West Bengal Kolkata, n54
+Indonesia, Bali Denpasar, n761
+Indonesia, East Java Surabaya, n631
+Indonesia, East Kalimantan Balikpapan, n434
+Indonesia, Jakarta Special Capital Region Jakarta, n108
+Indonesia, North Sulawesi Manado, n555
+Indonesia, Papua Jayapura, n759
+Indonesia, South Sulawesi Makassar, n653
+Indonesia, West Java Bandung, n437
+Indonesia, West Kalimantan Pontianak, n2120
+Indonesia, West Papua Manokwari, n2436
+Iran, Tehran, n246
+Iraq, Baghdad, n27
+Ireland, Dublin, n78
+Isle, of Man Douglas, n716
+Israel, Jerusalem, n110
+Israel, Tel Aviv, n676
+Italy, Milan, n157
+Italy, Rome, n215
+Jamaica, Kingston, n120
+Japan, Kobe, n540
+Japan, Kyoto, n538
+Japan, Nagoya, n565
+Japan, Osaka, n671
+Japan, Sapporo, n622
+Japan, Tokyo, n248
+Japan, Yokohama, n667
+Jordan, Amman, n11
+Kazakhstan, Almaty, n382
+Kazakhstan, Aqtobe, n916
+Kazakhstan, Nursultan, n921
+Kazakhstan, Oral, n2352
+Kenya, Nairobi, n170
+Kiribati, Christmas Island Kiritimati, n274
+Kiribati, Tarawa, n675
+Kosovo, Pristina, n743
+Kuwait, Kuwait City, n123
+Kyrgyzstan, Bishkek, n384
+Laos, Vientiane, n260
+Latvia, Riga, n602
+Lebanon, Beirut, n34
+Lesotho, Maseru, n147
+Liberia, Monrovia, n161
+Libya, Tripoli, n252
+Liechtenstein, Vaduz, n714
+Lithuania, Vilnius, n660
+Luxembourg, Luxembourg, n534
+Madagascar, Antananarivo, n20
+Malawi, Lilongwe, n130
+Malaysia, Kuala Lumpur Kuala Lumpur, n122
+Maldives, Male, n715
+Mali, Bamako, n29
+Mali, Timbuktu, n2328
+Malta, Valletta, n255
+Marshall, Islands Majuro, n717
+Martinique, Fort-de-France, n718
+Mauritania, Nouakchott, n183
+Mauritius, Port Louis, n201
+Mexico, Aguascalientes Aguascalientes, n9
+Mexico, Baja California Mexicali, n154
+Mexico, Baja California Tijuana, n247
+Mexico, Ciudad de México Mexico City, n155
+Mexico, Guerrero Acapulco, n3
+Mexico, Jalisco Guadalajara, n92
+Mexico, Quintana Roo Cancún, n923
+Mexico, Sinaloa Mazatlan, n148
+Mexico, Sonora Hermosillo, n503
+Mexico, Veracruz Veracruz, n258
+Micronesia, Pohnpei Palikir, n1072
+Moldova, Chișinău, n177
+Monaco, Monaco, n674
+Mongolia, Hovd, n950
+Mongolia, Ulaanbaatar, n720
+Montenegro, Podgorica, n744
+Morocco, Casablanca, n60
+Morocco, Rabat, n206
+Mozambique, Maputo, n146
+Myanmar, Naypyidaw, n1981
+Myanmar, Yangon, n208
+Namibia, Windhoek, n266
+Nauru, Yaren, n276
+Nepal, Kathmandu, n117
+Netherlands, Amsterdam, n16
+Netherlands, Amsterdam, n16
+Netherlands, Arnhem, n1296
+New, Zealand Auckland Auckland, n22
+New, Zealand Chatham Islands Chatham Islands, n63
+New, Zealand Wellington Wellington, n264
+Nicaragua, Managua, n143
+Niger, Niamey, n180
+Nigeria, Abuja, n742
+Nigeria, Lagos, n125
+Niue, Alofi, n724
+North, Korea Pyongyang, n205
+North, Macedonia Skopje, n673
+Northern Ireland,, n4391
+Norway, Alta, n2513
+Norway, Bergen, n287
+Norway, Finnsnes, n5267
+Norway, Oslo, n187
+Norway, Oslo, n187
+Norway, Oslo, n187
+Norway, Stavanger, n289
+Norway, Svalbard Longyearbyen, n737
+Norway, Tromso, n290
+Norway, Tromsø, n290
+Norway, Trondheim, n288
+Oman, Muscat, n169
+Pakistan, Islamabad, n106
+Pakistan, Lahore, n756
+Pakistan, Sindh Karachi, n757
+Palau, Ngerulmud, n5606
+Panama, Panama, n192
+Papua, New Guinea Port Moresby, n193
+Paraguay, Asuncion, n21
+Peru, Lima Lima, n131
+Philippines, Manila, n145
+Pitcairn, Islands Adamstown, n755
+Poland, Warsaw, n262
+Portugal, Azores Ponta Delgada, n271
+Portugal, Lisbon, n133
+Puerto, Rico San Juan, n226
+Qatar, Doha, n8
+Réunion, (French) Saint-Denis, n216
+Romania, Bucharest, n49
+Russia, Arkhangelsk Belushya Guba, n2437
+Russia, Bashkortostan Ufa, n356
+Russia, Chelyabinsk Chelyabinsk, n373
+Russia, Chukotka Anadyr, n17
+Russia, Chukotka Pevek, n3795
+Russia, Irkutsk Irkutsk, n378
+Russia, Kaliningrad Kaliningrad, n528
+Russia, Kamchatka Petropavlovsk-Kamchatsky, n114
+Russia, Khabarovsk Komsomolsk-on-Amur, n2439
+Russia, Krasnoyarsk Khatanga, n3735
+Russia, Krasnoyarsk Krasnoyarsk, n372
+Russia, Krasnoyarsk Norilsk, n381
+Russia, Magadan Magadan, n380
+Russia, Moscow Moscow, n166
+Russia, Murmansk Murmansk, n167
+Russia, Novgorod Novgorod, n353
+Russia, Novosibirsk Novosibirsk, n375
+Russia, Omsk Omsk, n374
+Russia, Perm Perm, n357
+Russia, Primorsky Vladivostok, n261
+Russia, Saint Petersburg Saint-Petersburg, n352
+Russia, Sakha (Yakutia) Srednekolymsk, n4211
+Russia, Sakha (Yakutia) Tiksi, n3769
+Russia, Sakha (Yakutia) Verkhoyansk, n3767
+Russia, Sakha (Yakutia) Yakutsk, n1907
+Russia, Sakhalin Yuzhno-Sakhalinsk, n1245
+Russia, Samara Samara, n355
+Russia, Sverdlovsk Yekaterinburg, n358
+Russia, Tatarstan Kazan, n354
+Russia, Udmurtia Izhevsk, n364
+Russia, Zabaykalsky Chita, n4096
+Rwanda, Kigali, n119
+Saint, Helena Jamestown, n727
+Saint, Kitts and Nevis Basseterre, n728
+Saint, Lucia Castries, n729
+Saint, Vincent and Grenadines Kingstown, n731
+Samoa, Apia, n282
+San, Marino San Marino, n732
+Sao, Tome and Principe São Tomé, n733
+Saudi, Arabia Makkah, n151
+Saudi, Arabia Medina, n1942
+Saudi, Arabia Riyadh, n214
+Senegal, Dakar, n74
+Serbia, Belgrade, n35
+Seychelles, Victoria, n734
+Sierra, Leone Freetown, n85
+Singapore, Singapore, n236
+Slovakia, Bratislava, n735
+Slovenia, Ljubljana, n736
+Solomon, Islands Honiara, n273
+Somalia, Mogadishu, n160
+South, Africa Cape Town, n56
+South, Africa Johannesburg, n111
+South, Africa Marion Island (Prince Edward Islands), n3401
+South, Africa Pretoria, n269
+South, Georgia/Sandwich Is. King Edward Point, n1985
+South, Korea Seoul, n235
+South, Sudan Juba, n2171
+South Africa, Johannesburg, n111
+Spain, Barcelona, n31
+Spain, Barcelona Barcelona, n31
+Spain, Bilbao, n327
+Spain, Lugo, n3334
+Spain, Madrid, n141
+Spain, Madrid, n141
+Spain, Majorca Palma, n191
+Spain, Santa Cruz de Tenerife, n683
+Spain, Sevilla, n321
+Spain, Valencia, n325
+Spain, Vigo, n4529
+Spain, Zaragoza, n326
+Spain, A Coruña, n681
+Sri, Lanka Colombo, n389
+Sri, Lanka Sri Jayawardenepura Kotte, n1925
+Sudan, Khartoum, n118
+Suriname, Paramaribo, n194
+Sweden, Gothenburg, n291
+Sweden, Stockholm, n239 
+Sweden, Stockholm, n239
+Switzerland, Bern Bern, n270
+Switzerland, Geneva, n87
+Switzerland, Geneva Geneva, n87
+Switzerland, Zurich Zürich, n268
+Syria, Damascus, n487
+Taiwan, Taipei, n241
+Tajikistan, Dushanbe, n385
+Tanzania, Dar es Salaam, n71
+Tanzania, Dodoma, n1030
+Thailand, Bangkok, n28
+Timor-Leste, Dili, n768
+Togo, Lomé, n135
+Tokelau, Fakaofo, n738
+Tonga, Nukualofa, n277
+Trinidad, and Tobago Port of Spain, n588
+Tunisia, Tunis, n253
+Turkey, Ankara, n19
+Turkey, Istanbul, n107
+Turkmenistan, Ashgabat, n387
+Tuvalu, Funafuti, n272
+Uganda, Kampala, n115
+UK, London, n136
+UK,, n2483
+Ukraine, Dnipropetrovsk Dnipro, n4060
+Ukraine, Kyiv Kyiv, n367
+Ukraine, Odessa Odesa, n366
+United, Arab Emirates Abu Dhabi Abu Dhabi, n2
+United, Arab Emirates Dubai Dubai, n776
+United, Kingdom England Bromley, n4744
+United, Kingdom England Croydon, n5264
+United, Kingdom England Enfield, n4733
+United, Kingdom England Epsom, n4793
+United, Kingdom England Greenwich Borough, n769
+United, Kingdom England London, n136
+United, Kingdom England Loughton, n2125
+United, Kingdom Northern Ireland Belfast, n919
+United, Kingdom Scotland Edinburgh, n304
+United, Kingdom Scotland Glasgow, n90
+United, Kingdom Wales Cardiff, n298
+Uruguay, Montevideo, n163
+US, Minor Outlying Islands Baker Island, n3399
+US, Minor Outlying Islands Midway, n1890
+US, Minor Outlying Islands Wake Island, n2131
+USA, Alabama Montgomery, n407
+USA, Alaska Adak, n13
+USA, Alaska Anchorage, n18
+USA, Alaska Fairbanks, n81
+USA, Alaska Juneau, n112
+USA, Alaska Unalaska, n931
+USA, Albuquerque, n394
+USA, Arizona Phoenix, n197
+USA, Arkansas Little Rock, n134
+USA, Austin, n64
+USA, Boston, n43
+USA, CA, n137
+USA, California Los Angeles, n137
+USA, California Sacramento, n217
+USA, California San Diego, n770
+USA, California San Francisco, n224
+USA, California San Jose, n283
+USA, Chicago, n64
+USA, Colorado Denver, n75
+USA, Connecticut Hartford, n98
+USA, Dallas, n70
+USA, Delaware Dover, n1029
+USA, Des Moines, n76
+USA, District of Columbia Washington DC, n263
+USA, Florida Miami, n156
+USA, Florida Orlando, n867
+USA, Florida Pensacola, n944
+USA, Freehold, n2268
+USA, Georgia Atlanta, n25
+USA, Hawaii Honolulu, n103
+USA, Houston, n104
+USA, Idaho Boise, n42
+USA, IL, n64
+USA, Illinois Chicago, n64
+USA, Independence, n838
+USA, Indiana Indianapolis, n105
+USA, Iowa Des Moines, n76
+USA, Kansas City, n405
+USA, Kansas City, n5080
+USA, Kansas Topeka, n249
+USA, Kentucky Louisville, n413
+USA, Louisiana New Orleans, n178
+USA, Maine Augusta, n23
+USA, Maryland Baltimore, n419
+USA, Maryville, n5345
+USA, Massachusetts Boston, n43
+USA, Michigan Detroit, n77
+USA, Minnesota Minneapolis, n159
+USA, Minnesota St. Paul, n219
+USA, Mississippi Jackson, n515
+USA, Missouri Kansas City, n405
+USA, Missouri St. Louis, n605
+USA, Montana Billings, n448
+USA, Nebraska Lincoln, n132
+USA, Nevada Las Vegas, n127
+USA, New Hampshire Concord, n68
+USA, New Jersey Newark, n861
+USA, New Mexico Albuquerque, n394
+USA, New York New York, n179
+USA, North Carolina Raleigh, n207
+USA, North Dakota Bismarck, n39
+USA, NY, n179
+USA, Ohio Columbus, n805
+USA, Oklahoma Oklahoma City, n184
+USA, Oregon Portland, n202
+USA, Oregon Salem, n221
+USA, Overland Park, n868
+USA, Pennsylvania Philadelphia, n198
+USA, Phoenix, n197
+USA, Rhode Island Providence, n878
+USA, Saint Joseph, n5688
+USA, South Carolina Columbia, n66
+USA, South Dakota Rapid City, n1920
+USA, South Dakota Sioux Falls, n627
+USA, Tennessee Knoxville, n843
+USA, Tennessee Nashville, n171
+USA, Texas Austin, n24
+USA, Texas Dallas, n70
+USA, Texas Houston, n104
+USA, Texas Midland, n1921
+USA, TX, n70
+USA, Utah Salt Lake City, n220
+USA, Vermont Montpelier, n164
+USA, Virginia Richmond, n212
+USA, Washington Seattle, n234
+USA, West Virginia Charleston, n62
+USA, Wisconsin Madison, n142
+USA, Wisconsin Milwaukee, n158
+USA, Wyoming Cheyenne, n778
+Uzbekistan, Tashkent, n244
+Valladolid, Spain, n3751
+Vanuatu, Port Vila, n280
+Vatican, City State Vatican City, n710
+Venezuela, Caracas, n58
+Vietnam, Hanoi, n95
+Vietnam, Ho Chi Minh, n218
+Western, Sahara El Aaiún, n741
+Yemen, Aden, n6
+Yemen, Sana, n672
+Zambia, Lusaka, n140
+Zimbabwe, Harare, n96
+Zuerich, Switzerland, n268
+,, 
