@@ -261,6 +261,7 @@ Mexico   ; Baja California; Mexicali;n154;@spitzlbergerj,@TipsyNurse
 Mexico   ; Baja California; Tijuana;n247;@spitzlbergerj,@TipsyNurse
 Mexico   ; Ciudad de México; Mexico City;n155;@spitzlbergerj,@TipsyNurse
 Mexico   ; Guerrero; Acapulco;n3;@spitzlbergerj,@TipsyNurse
+Mexico   ; Hermosillo, Sonora, n503, @rafaelcota
 Mexico   ; Jalisco; Guadalajara;n92;@spitzlbergerj,@TipsyNurse
 Mexico   ; Quintana Roo; Cancún;n923;@spitzlbergerj,@TipsyNurse
 Mexico   ; Sinaloa; Mazatlan;n148;@spitzlbergerj,@TipsyNurse
@@ -430,8 +431,9 @@ Ukraine   ; Kyiv; Kyiv;n367;@spitzlbergerj,@TipsyNurse
 Ukraine   ; Odessa; Odesa;n366;@spitzlbergerj,@TipsyNurse
 United Arab Emirates ; Abu Dhabi; Abu Dhabi;n2;@spitzlbergerj,@TipsyNurse
 United Arab Emirates ; Dubai; Dubai;n776;@spitzlbergerj,@TipsyNurse
-United Kingdom; ; ;n2483;@dazza120
-United Kingdom;; London;n136;
+United Kingdom  ; n2483;@dazza120
+United Kingdom  ; London;n136;
+United Kingdom  ; Middlesbrough, n1343 @Biffer902
 United Kingdom  ; England; Bromley;n4744;@spitzlbergerj,@TipsyNurse
 United Kingdom  ; England; Croydon;n5264;@spitzlbergerj,@TipsyNurse
 United Kingdom  ; England; Enfield;n4733;@spitzlbergerj,@TipsyNurse
