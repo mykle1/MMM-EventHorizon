@@ -12,6 +12,7 @@ Module.register("MMM-EventHorizon", {
     defaults: {
         timezone: "n179", // See Timezone chart in readme
         units: "5", // 1=no units, 2=units initial only, 3=units abbr singular, 4= units abbr plural, 5= units full name
+        justDays: "", //  yes or no // For longer countdowns. Displays ONLY days remaining
         size: "medium", // small, medium or large
         countUp: "yes", // Count up after timer ends
         date: "2019-07-04", // YYYY-MM-DD format ONLY
@@ -41,11 +42,27 @@ Module.register("MMM-EventHorizon", {
         var iframe = document.createElement("IFRAME");
         iframe.classList.add("iframe");
         iframe.style = "border:none";
-        //		iframe.width = this.config.width;
-        //		iframe.height = this.config.height;
+        // iframe.style = 'width: this.config.width';
+        // iframe.width = "1080";
+        // iframe.height = "480";
         type = "text/javascript";
 
-        if (this.config.countUp == "yes" && this.config.size == "small") {
+
+        if (this.config.justDays == "yes" && this.config.size == "small") {
+          // small
+          iframe.src = "http://free.timeanddate.com/countdown/i6f519yg/" + this.config.timezone + "/cf12/cm0/cu1/ct" + this.config.units + "/cs1/ca0/cr0/ss0/cac" + this.config.timerColor + "/cpc" + this.config.timerUpColor + "/pc" + this.config.colorpc + "/tcfff/fs100/szw256/szh108/tat" + this.config.text1 + "/tac" + this.config.text1Color + "/tpt" + this.config.endText1 + "/tpc" + this.config.endText1Color + "/mat" + this.config.text2 + "/mac" + this.config.text2Color + "/mpt" + this.config.endText2 + "/mpc" + this.config.endText2Color + "/iso" + this.config.date + "T" + this.config.time;
+      } else if (this.config.justDays == "yes" && this.config.size == "medium") {
+          // medium
+          iframe.src = "http://free.timeanddate.com/countdown/i6f519yg/" + this.config.timezone + "/cf12/cm0/cu1/ct" + this.config.units + "/cs1/ca0/cr0/ss0/cac" + this.config.timerColor + "/cpc" + this.config.timerUpColor + "/pc" + this.config.colorpc + "/tcfff/fs100/szw320/szh135/tat" + this.config.text1 + "/tac" + this.config.text1Color + "/tpt" + this.config.endText1 + "/tpc" + this.config.endText1Color + "/mat" + this.config.text2 + "/mac" + this.config.text2Color + "/mpt" + this.config.endText2 + "/mpc" + this.config.endText2Color + "/iso" + this.config.date + "T" + this.config.time;
+      } else if (this.config.justDays == "yes" && this.config.size == "large") {
+          // large
+          iframe.src = "http://free.timeanddate.com/countdown/i6f519yg/" + this.config.timezone + "/cf12/cm0/cu1/ct" + this.config.units + "/cs1/ca0/cr0/ss0/cac" + this.config.timerColor + "/cpc" + this.config.timerUpColor + "/pc" + this.config.colorpc + "/tcfff/fs100/szw576/szh243/tat" + this.config.text1 + "/tac" + this.config.text1Color + "/tpt" + this.config.endText1 + "/tpc" + this.config.endText1Color + "/mat" + this.config.text2 + "/mac" + this.config.text2Color + "/mpt" + this.config.endText2 + "/mpc" + this.config.endText2Color + "/iso" + this.config.date + "T" + this.config.time;
+      }
+
+
+
+
+        else if (this.config.countUp == "yes" && this.config.size == "small") {
             // small
             iframe.src = "http://free.timeanddate.com/countdown/i6f519yg/" + this.config.timezone + "/cf12/cm0/cu4/ct" + this.config.units + "/cs0/ca0/cr0/ss0/cac" + this.config.timerColor + "/cpc" + this.config.timerUpColor + "/pc" + this.config.colorpc + "/tcfff/fs100/szw256/szh108/tat" + this.config.text1 + "/tac" + this.config.text1Color + "/tpt" + this.config.endText1 + "/tpc" + this.config.endText1Color + "/mat" + this.config.text2 + "/mac" + this.config.text2Color + "/mpt" + this.config.endText2 + "/mpc" + this.config.endText2Color + "/iso" + this.config.date + "T" + this.config.time;
         } else if (this.config.countUp == "yes" && this.config.size == "medium") {
