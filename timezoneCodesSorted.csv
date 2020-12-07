@@ -383,7 +383,7 @@ South Africa  ;; Johannesburg;n111;@spitzlbergerj,@TipsyNurse
 South Africa  ;; Marion Island (Prince Edward Islands);n3401;@spitzlbergerj,@TipsyNurse
 South Africa  ;; Pretoria;n269;@spitzlbergerj,@TipsyNurse
 South Georgia/Sandwich Is. ;; King Edward Point;n1985;@spitzlbergerj,@TipsyNurse
-South Korea  ;; Seoul;n235;@spitzlbergerj,@TipsyNurse
+South Korea  ;; Seoul;n235;@spitzlbergerj,@TipsyNurse,@hiaustralian
 South Sudan  ;; Juba;n2171;@spitzlbergerj,@TipsyNurse
 Spain; ; A Coruña;n681;@qu1que
 Spain; ; Barcelona;n31;@qu1que
@@ -454,12 +454,12 @@ US Minor Outlying Islands;; Wake Island;n2131;@spitzlbergerj,@TipsyNurse
 USA; Albuquerque;nm;n394 ;@sdetweil
 USA; Austin; Texas;n64 ;@sdetweil
 USA; Boston; MA;n43 ;@rts58
-USA; CA; ;n137; 
+USA; CA; ;n137;
 USA; Central America; ;n94;@rmonteroc
 USA; Central Time zone; Chicago;n64;@vinp
-USA; Dallas; Texas;n70;@sdetweil 
-USA; Houston; Texas;n104 ;@sdetweil 
-USA; IL; ;n64; 
+USA; Dallas; Texas;n70;@sdetweil
+USA; Houston; Texas;n104 ;@sdetweil
+USA; IL; ;n64;
 USA; Iowa; Des Moines;n76;@justjim
 USA; Kansas; Overland Park;n868;@justjim
 USA; Kansas;Kansas City;n5080;@justjim
@@ -468,9 +468,9 @@ USA; Missouri; Kansas City;n405;@justjim
 USA; Missouri; Maryville;n5345;@justjim
 USA; Missouri; Saint Joseph;n5688;@justjim
 USA; Phoenix; Az;n197;@sdetweil
-USA; TX; ;n70; 
+USA; TX; ;n70;
 USA;nJ; Freehold;n2268 ;@swvalenti
-USA;nY; ;n179; 
+USA;nY; ;n179;
 USA   ; Alabama; Montgomery;n407;@spitzlbergerj,@TipsyNurse
 USA   ; Alaska; Adak;n13;@spitzlbergerj,@TipsyNurse
 USA   ; Alaska; Anchorage;n18;@spitzlbergerj,@TipsyNurse
