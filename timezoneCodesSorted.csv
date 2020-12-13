@@ -19,6 +19,7 @@ Australia;new South Wales; Sydney;n240;@spitzlbergerj,@TipsyNurse
 Australia;northern Territory; Alice Springs;n929;@spitzlbergerj,@TipsyNurse
 Australia;northern Territory; Darwin;n72;@spitzlbergerj,@TipsyNurse
 Austria; Vienna; Vienna;n259;@spitzlbergerj,@TipsyNurse
+Austria;; n2718, Eisenstadt (Burgenland), Austria , CET - Central European Time @Tribun
 Azerbaijan;; Baku;n369;@spitzlbergerj,@TipsyNurse
 Bahamas;;nassau;n173;@spitzlbergerj,@TipsyNurse
 Bahrain;; Manama;n15;@spitzlbergerj,@TipsyNurse
@@ -138,8 +139,9 @@ Fiji   ;; Suva;n82;@spitzlbergerj,@TipsyNurse
 Finland   ;; Helsinki;n101;@spitzlbergerj,@TipsyNurse
 Finland   ;; Kemi;n3718;@spitzlbergerj,@TipsyNurse
 Finland   ;; Rovaniemi;n1401;@spitzlbergerj,@TipsyNurse
-France;; Paris;n195;
-France   ; Île-de-France; Paris;n195;@spitzlbergerj,@TipsyNurse
+France    ;; Paris;n195
+France    ;; Île-de-France; Paris;n195;@spitzlbergerj,@TipsyNurse
+France    ;; Provence-Alpes-Côte-d’Azur- Toulon n1267 @chassain 0
 French Guiana  ;; Cayenne;n61;@spitzlbergerj,@TipsyNurse
 French Polynesia  ; Tahiti; Papeete;n278;@spitzlbergerj,@TipsyNurse
 French Southern Territories ;; Amsterdam Island;n3658;@spitzlbergerj,@TipsyNurse
